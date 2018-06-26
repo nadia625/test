@@ -5,4 +5,4 @@
 Vom face următoarele:
 - Instalăm *git*
 - creăm cont pe [github](http://github.com/)
-- creăm cont pentru lucru cu LaTeX online.
+- creăm cont pentru lucru cu LaTeX online în ShareLaTeX. 
